@@ -1,7 +1,3 @@
-Got it! You want a **well-written, GitHub-ready description for your README** based on your Streamlit code and the sample output. Here's a polished version in the same style as your previous README:
-
----
-
 # Swiggy Delivery Time Prediction 🚴‍♀️
 
 A Machine Learning web application built using Streamlit that predicts the estimated delivery time for Swiggy orders based on various real-world factors such as weather, traffic, delivery agent details, and more. Users can enter details about the delivery, and the trained ML model will output the expected delivery time in minutes.
@@ -109,9 +105,3 @@ I also participated in a **5-day Machine Learning Hands-on Workshop** conducted 
 * Deploy on Streamlit Cloud or Hugging Face Spaces
 * Add visualization for feature importance
 
----
-
-If you want, I can **also add a small “Screenshot / Demo” section with your sample input and output**, so it looks exactly like a professional GitHub project. This is perfect for your portfolio.
-
-Do you want me to do that?
-# Machine_Leaning_Mini_projects
